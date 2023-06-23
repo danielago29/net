@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sp+tm5KxcYvOR8X/y37OZXCPQDOkYguDPmjPS9U8ILnPw1Ivo1Qm2O+F1iq+F4gLijFYVHi15u5r/uO5W+sGcw==",
+  "dgSpecHash": "akBQuk7UJ7P6EL28rrL10KKRZ3Ii47jVas0Z908lAs9JrEtG7Cc/mDy04hrWMH9jy8sClUVfQbqnxpbwrIwgjw==",
   "success": true,
-  "projectFilePath": "D:\\projectsNetCore\\listas-cSharp\\listas-cSharp.csproj",
+  "projectFilePath": "/home/apolm01-009/Documents/net/listas-cSharp/listas-cSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
